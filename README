@@ -1,0 +1,12 @@
+This is the code for the project described at:
+    http://www.cs.rit.edu/~ark/440/p3/p3.shtml
+
+Prerequisites:
+- Make
+- Java SE 6
+
+Run:
+    make 
+
+Clean:
+    make clean
